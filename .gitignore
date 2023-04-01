@@ -1,0 +1,4 @@
+devenv
+*.ini
+.pre-commit-config.yaml
+__pycache__

@@ -1,0 +1,6 @@
+pytube
+moviepy
+openai
+pydantic
+fastapi
+uvicorn
