@@ -1,3 +1,5 @@
+<video src="https://github.com/sambit9238/video_summarizer/blob/main/React%20App.mp4"></video>
+
 # FastAPI Video Summary Service
 
 This is a FastAPI web application that provides an API to summarize video content. The service utilizes the OpenAI API to generate text summaries of the video transcriptions.
